@@ -1,6 +1,6 @@
 # Garden Flow
 
-[Instalación]() - [Informacion]()
+[Instalación](instalacion.md) - [Informacion](informacion.md)
 
 ## Qué es
 
