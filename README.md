@@ -18,7 +18,7 @@ GardenFlow es un proyecto que me gustaría llevar a cabo. Se trata de un servici
 - [Moodle](https://moodle.org)
 - [Dokcer](https://docker.com)
 
-# Bloques de codigo
+## Bloques de codigo
 
 ```docker
 docker compose up -d
@@ -28,3 +28,12 @@ docker compose up -d
 <h1>Mi primera web</h1>
 <h2>Esto es un titulo 2</h2>
 ```
+
+## Tabla
+
+| Mes                  | Conste | ¿Tenemos? | ¿Tenemos?                    |
+| -------------------- | ------ | :-------: | ---------------------------- |
+| Raspberry Pi Zero 2w | 50€    |    [x]    | [enlace](https://google.com) |
+| Sensor humedad       | 2€     |    [ ]    | [enlace](https://google.com) |
+| Electroválvula       | ---    |    [ ]    | [enlace](https://google.com) |
+| Manguera             | 10€    |    [x]    | [enlace](https://google.com) |
